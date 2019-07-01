@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/ivProfileImage"
+        android:layout_width="108dp"
+        android:layout_height="109dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/tvBody"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="?attr/colorPrimaryDark" />
+
+    <TextView
+        android:id="@+id/tvUserName"
+        android:layout_width="278dp"
+        android:layout_height="29dp"
+        android:layout_margin="5dp"
+        android:layout_marginStart="15dp"
+        android:text="TextView"
+        app:layout_constraintStart_toStartOf="@+id/tvBody"
+        app:layout_constraintBottom_toTopOf="@+id/tvBody"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/ivProfileImage"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvBody"
+        android:layout_width="278dp"
+        android:layout_height="70dp"
+        android:layout_alignBottom="@+id/ivProfileImage"
+        android:layout_margin="5dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/ivProfileImage"
+        app:layout_constraintTop_toBottomOf="@+id/tvUserName" />
+</android.support.constraint.ConstraintLayout>

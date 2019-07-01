@@ -1,0 +1,216 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/807df7e0cca27a21b27fb1bc211e9baa/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/7123665e7b363ae4eef5a5a1789c454c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/egray/.gradle/caches/transforms-2/files-2.1/acb31b43dcce84892db189fee7ec6848/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/ea3a4c92cc84dbb84ad810d736233dc7/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/9722b9ecc917c7ec35ee9afc81789ef6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/8b5cecfadeb8d18eeb88099c524c628c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/c2a786771b5a5e3980f6091f39579eea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/bb4353b417393f7bb202cccca8a90eba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/a634077fc8d0bd4beb6212b7ea048d87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/0f787a1c76b660ab8d335d80f32662c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/e332f46deb42d99b23947bc0a16fa956/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/29ea746d48471f67ad4df6a520f03d54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/b2f49ef80ecd6357d672c7c09b89cd2e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/512eaeec5afe64a1253d6a13504bc6a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/41e33c2012faa74138b64199d1b5c91a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/d5c537c5267d493ccf17e995bb4fb896/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/a00b9206b4dea48f09cbad63d8c13888/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/e59d0bcd8d8c160966011487c4ec0541/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/2e77c274dd5fef40f280999fd8c974ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/d38e3a293adf47dad6e1cbfeffcd04b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/63838859d47c8b8c8f78345a330c821b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/e5af77d1348f90a30beb151a9445dc0b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/d47bd9377328a75190a2a0d65ca9fb4b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/e8d2a8cee71f839c0ce1279b87b62143/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/f101bdc08476f240766c0b6d55f9ab41/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/9411ad0b2e3c21a33699550e82fa72c1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/301cc813e8b97b01a7637fde068c0791/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/b5dc82d9d3da1c66bfebc93f82ed8af7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/e1829cb32e2b6ea488a740645f09d5d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/0f7f96f83b0ea79710b215f906365314/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/1065c2c632acff0bec0484dd5cf9dcf2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/3fd3af3c78a5fd23054d1b099b9233bb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/f128eac0924dc00160a30b88f69e65df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/f0e3b7fa14e089b238b44d7500acab5d/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:10:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/egray/.gradle/caches/transforms-2/files-2.1/acb31b43dcce84892db189fee7ec6848/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/egray/.gradle/caches/transforms-2/files-2.1/acb31b43dcce84892db189fee7ec6848/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/ea3a4c92cc84dbb84ad810d736233dc7/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/ea3a4c92cc84dbb84ad810d736233dc7/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/63838859d47c8b8c8f78345a330c821b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/63838859d47c8b8c8f78345a330c821b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/e5af77d1348f90a30beb151a9445dc0b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/e5af77d1348f90a30beb151a9445dc0b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/63838859d47c8b8c8f78345a330c821b/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:16:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:12:9-44
+	android:name
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:11:9-35
+activity#com.codepath.apps.restclienttemplate.TimelineActivity
+ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:17:9-63
+	android:name
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:17:19-51
+activity#com.codepath.apps.restclienttemplate.LoginActivity
+ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:18:9-37:20
+	android:label
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:21:13-44
+	android:name
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:19:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:25:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/intent_host+data:scheme:@string/intent_scheme
+ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:27:13-36:29
+action#android.intent.action.VIEW
+ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:30:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:31:17-78
+	android:name
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:31:27-75
+data
+ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:33:17-35:62
+	android:host
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:34:21-55
+	android:scheme
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:35:21-59
+uses-sdk
+INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/807df7e0cca27a21b27fb1bc211e9baa/AndroidManifest.xml:7:5-9:41
+MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/807df7e0cca27a21b27fb1bc211e9baa/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/7123665e7b363ae4eef5a5a1789c454c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/7123665e7b363ae4eef5a5a1789c454c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/egray/.gradle/caches/transforms-2/files-2.1/acb31b43dcce84892db189fee7ec6848/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/egray/.gradle/caches/transforms-2/files-2.1/acb31b43dcce84892db189fee7ec6848/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/ea3a4c92cc84dbb84ad810d736233dc7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/ea3a4c92cc84dbb84ad810d736233dc7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/9722b9ecc917c7ec35ee9afc81789ef6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/9722b9ecc917c7ec35ee9afc81789ef6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/8b5cecfadeb8d18eeb88099c524c628c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/8b5cecfadeb8d18eeb88099c524c628c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/c2a786771b5a5e3980f6091f39579eea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/c2a786771b5a5e3980f6091f39579eea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/bb4353b417393f7bb202cccca8a90eba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/bb4353b417393f7bb202cccca8a90eba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/a634077fc8d0bd4beb6212b7ea048d87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/a634077fc8d0bd4beb6212b7ea048d87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/0f787a1c76b660ab8d335d80f32662c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/0f787a1c76b660ab8d335d80f32662c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/e332f46deb42d99b23947bc0a16fa956/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/e332f46deb42d99b23947bc0a16fa956/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/29ea746d48471f67ad4df6a520f03d54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/29ea746d48471f67ad4df6a520f03d54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/b2f49ef80ecd6357d672c7c09b89cd2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/b2f49ef80ecd6357d672c7c09b89cd2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/512eaeec5afe64a1253d6a13504bc6a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/512eaeec5afe64a1253d6a13504bc6a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/41e33c2012faa74138b64199d1b5c91a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/41e33c2012faa74138b64199d1b5c91a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/d5c537c5267d493ccf17e995bb4fb896/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/d5c537c5267d493ccf17e995bb4fb896/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/a00b9206b4dea48f09cbad63d8c13888/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/a00b9206b4dea48f09cbad63d8c13888/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/e59d0bcd8d8c160966011487c4ec0541/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/e59d0bcd8d8c160966011487c4ec0541/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/2e77c274dd5fef40f280999fd8c974ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/2e77c274dd5fef40f280999fd8c974ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/d38e3a293adf47dad6e1cbfeffcd04b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/d38e3a293adf47dad6e1cbfeffcd04b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/63838859d47c8b8c8f78345a330c821b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/63838859d47c8b8c8f78345a330c821b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/e5af77d1348f90a30beb151a9445dc0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/e5af77d1348f90a30beb151a9445dc0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/d47bd9377328a75190a2a0d65ca9fb4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/d47bd9377328a75190a2a0d65ca9fb4b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/e8d2a8cee71f839c0ce1279b87b62143/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/e8d2a8cee71f839c0ce1279b87b62143/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/f101bdc08476f240766c0b6d55f9ab41/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/f101bdc08476f240766c0b6d55f9ab41/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/9411ad0b2e3c21a33699550e82fa72c1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/9411ad0b2e3c21a33699550e82fa72c1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/301cc813e8b97b01a7637fde068c0791/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/301cc813e8b97b01a7637fde068c0791/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/b5dc82d9d3da1c66bfebc93f82ed8af7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/b5dc82d9d3da1c66bfebc93f82ed8af7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/e1829cb32e2b6ea488a740645f09d5d6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/e1829cb32e2b6ea488a740645f09d5d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/0f7f96f83b0ea79710b215f906365314/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/0f7f96f83b0ea79710b215f906365314/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/1065c2c632acff0bec0484dd5cf9dcf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/1065c2c632acff0bec0484dd5cf9dcf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/3fd3af3c78a5fd23054d1b099b9233bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/3fd3af3c78a5fd23054d1b099b9233bb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/f128eac0924dc00160a30b88f69e65df/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/f128eac0924dc00160a30b88f69e65df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/f0e3b7fa14e089b238b44d7500acab5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/f0e3b7fa14e089b238b44d7500acab5d/AndroidManifest.xml:20:5-44
+INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml

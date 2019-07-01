@@ -10,6 +10,11 @@ import java.util.List;
 @Dao
 public interface SampleModelDao {
 
+    //Dao = data access object
+    // query object by unique identifier
+    //query poll last 300 items
+    //replace with new one
+
     // @Query annotation requires knowing SQL syntax
     // See http://www.sqltutorial.org/
     

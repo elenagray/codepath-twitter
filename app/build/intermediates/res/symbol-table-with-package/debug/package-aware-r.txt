@@ -726,6 +726,7 @@ id fill
 id fill_horizontal
 id fill_vertical
 id forever
+id glide_custom_view_target_tag
 id gone
 id group_divider
 id groups
@@ -765,6 +766,7 @@ id radio
 id right
 id right_icon
 id right_side
+id rvTweet
 id screen
 id scrollIndicatorDown
 id scrollIndicatorUp
@@ -811,6 +813,7 @@ id title_template
 id top
 id topPanel
 id tvBody
+id tvDate
 id tvUserName
 id uniform
 id up

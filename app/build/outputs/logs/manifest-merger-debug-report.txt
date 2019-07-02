@@ -6,6 +6,7 @@ INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitte
 INJECTED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-40:12
 MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/807df7e0cca27a21b27fb1bc211e9baa/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/3d9af6211d2a4b62bdc3595bdf365fce/AndroidManifest.xml:2:1-12:12
 MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/7123665e7b363ae4eef5a5a1789c454c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/egray/.gradle/caches/transforms-2/files-2.1/acb31b43dcce84892db189fee7ec6848/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/ea3a4c92cc84dbb84ad810d736233dc7/AndroidManifest.xml:2:1-13:12
@@ -28,6 +29,7 @@ MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/egray/.gradl
 MERGED from [com.android.support:support-compat:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/63838859d47c8b8c8f78345a330c821b/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/e5af77d1348f90a30beb151a9445dc0b/AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/d47bd9377328a75190a2a0d65ca9fb4b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/8acf400069d12a222877d9a82970aa7a/AndroidManifest.xml:2:1-11:12
 MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/e8d2a8cee71f839c0ce1279b87b62143/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.persistence:db:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/f101bdc08476f240766c0b6d55f9ab41/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/9411ad0b2e3c21a33699550e82fa72c1/AndroidManifest.xml:17:1-22:12
@@ -66,6 +68,8 @@ ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/a
 		ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:8:22-78
 application
 ADDED from /Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:10:5-38:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/3d9af6211d2a4b62bdc3595bdf365fce/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/3d9af6211d2a4b62bdc3595bdf365fce/AndroidManifest.xml:10:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/egray/.gradle/caches/transforms-2/files-2.1/acb31b43dcce84892db189fee7ec6848/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/egray/.gradle/caches/transforms-2/files-2.1/acb31b43dcce84892db189fee7ec6848/AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/ea3a4c92cc84dbb84ad810d736233dc7/AndroidManifest.xml:11:5-20
@@ -74,6 +78,8 @@ MERGED from [com.android.support:support-compat:28.0.0] /Users/egray/.gradle/cac
 MERGED from [com.android.support:support-compat:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/63838859d47c8b8c8f78345a330c821b/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/e5af77d1348f90a30beb151a9445dc0b/AndroidManifest.xml:22:5-23:19
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/e5af77d1348f90a30beb151a9445dc0b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/8acf400069d12a222877d9a82970aa7a/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/8acf400069d12a222877d9a82970aa7a/AndroidManifest.xml:9:5-20
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/63838859d47c8b8c8f78345a330c821b/AndroidManifest.xml:22:18-91
 	android:label
@@ -138,6 +144,8 @@ MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/egray/.g
 MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/807df7e0cca27a21b27fb1bc211e9baa/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/3d9af6211d2a4b62bdc3595bdf365fce/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/3d9af6211d2a4b62bdc3595bdf365fce/AndroidManifest.xml:6:5-8:41
 MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/7123665e7b363ae4eef5a5a1789c454c/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/7123665e7b363ae4eef5a5a1789c454c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/egray/.gradle/caches/transforms-2/files-2.1/acb31b43dcce84892db189fee7ec6848/AndroidManifest.xml:5:5-7:41
@@ -182,6 +190,8 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/egray/.gradl
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/e5af77d1348f90a30beb151a9445dc0b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/d47bd9377328a75190a2a0d65ca9fb4b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/d47bd9377328a75190a2a0d65ca9fb4b/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/8acf400069d12a222877d9a82970aa7a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/egray/.gradle/caches/transforms-2/files-2.1/8acf400069d12a222877d9a82970aa7a/AndroidManifest.xml:5:5-7:41
 MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/e8d2a8cee71f839c0ce1279b87b62143/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/e8d2a8cee71f839c0ce1279b87b62143/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.persistence:db:1.1.1] /Users/egray/.gradle/caches/transforms-2/files-2.1/f101bdc08476f240766c0b6d55f9ab41/AndroidManifest.xml:20:5-44

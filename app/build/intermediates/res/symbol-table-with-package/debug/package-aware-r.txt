@@ -647,7 +647,10 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable ic_compose
 drawable ic_launcher
+drawable ic_launcher_background
+drawable ic_launcher_foreground
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -697,6 +700,7 @@ id barrier
 id beginning
 id blocking
 id bottom
+id btnSend
 id buttonPanel
 id cancel_action
 id center
@@ -720,6 +724,7 @@ id disableHome
 id edit_query
 id end
 id end_padder
+id etTweetInput
 id expand_activities_button
 id expanded_menu
 id fill
@@ -748,6 +753,7 @@ id listMode
 id list_item
 id media_actions
 id message
+id miCompose
 id middle
 id multiply
 id never
@@ -813,6 +819,7 @@ id title_template
 id top
 id topPanel
 id tvBody
+id tvCharCount
 id tvDate
 id tvUserName
 id uniform
@@ -854,6 +861,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_compose
 layout activity_login
 layout activity_timeline
 layout item_tweet
@@ -877,6 +885,9 @@ layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 menu login
+menu menu_main
+mipmap ic_compose
+mipmap ic_compose_round
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -917,11 +928,14 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
+string compose
+string create_button
 string intent_host
 string intent_scheme
 string login_label
 string search_menu_title
 string status_bar_notification_info_overflow
+string tweet_input_hint
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

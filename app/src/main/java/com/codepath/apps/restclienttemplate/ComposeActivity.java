@@ -42,6 +42,7 @@ public class ComposeActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        boolean replyYes;
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_compose);

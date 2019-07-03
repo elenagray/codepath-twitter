@@ -13,4 +13,9 @@
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
 
+    <style name="MyActionBarLogo" parent="@style/Widget.AppCompat.Light.ActionBar">
+        <item name="logo">@drawable/ic_launcher_twitter_round</item>
+        <item name="displayOptions">useLogo|showHome</item>
+    </style>
+
 </resources>

@@ -1,6 +1,8 @@
 package com.codepath.apps.restclienttemplate;
 
 import android.content.Intent;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.widget.SwipeRefreshLayout;
@@ -27,14 +29,14 @@ import cz.msebera.android.httpclient.Header;
 import static com.codepath.apps.restclienttemplate.ComposeActivity.RESULT_TWEET_KEY;
 
 public class TimelineActivity extends AppCompatActivity {
-
-
     public static final int COMPOSE_TWEET_REQUEST_CODE = 100; //get request code back for new tweet
     private TwitterClient client;
     TweetAdapter tweetAdapter;
     ArrayList<Tweet> tweets;
     RecyclerView rvTweets;
     private SwipeRefreshLayout swipeContainer;
+    MenuItem miActionProgressItem;
+    public boolean ReplyYes;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -68,7 +70,12 @@ public class TimelineActivity extends AppCompatActivity {
         rvTweets.setLayoutManager(new LinearLayoutManager(this));
         // set adapter
         rvTweets.setAdapter(tweetAdapter);
-        populateTimeline();
+
+        getSupportActionBar().setTitle("Twitter");
+        getSupportActionBar().setDisplayShowHomeEnabled(true);
+        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#1da1f2")));
+        getSupportActionBar().setLogo(getDrawable(R.drawable.ic_launcher_twitter_round));
+        getSupportActionBar().setDisplayUseLogoEnabled(true);
     }
 
     public void fetchTimelineAsync(int page) {
@@ -105,9 +112,6 @@ public class TimelineActivity extends AppCompatActivity {
             case R.id.miCompose:
                 composeMessage();
                 return true;
-//            case R.id.miProfile:
-//                showProfileView();
-//                return true; TODO: See if this is needed
             default:
                 return super.onOptionsItemSelected(item);
         }
@@ -131,9 +135,38 @@ public class TimelineActivity extends AppCompatActivity {
         startActivityForResult(composeTweet, COMPOSE_TWEET_REQUEST_CODE);
     }
 
+    private void replyMessage() { //TODO: maybe delete/change
+        //open ComposeActivity to reply with new tweet
+        Intent composeTweet = new Intent(this, ComposeActivity.class);
+        startActivityForResult(composeTweet, COMPOSE_TWEET_REQUEST_CODE);
+        ReplyYes = true;
+        composeTweet.putExtra("replyYes", ReplyYes);
+
+    }
+
+    @Override
+    public boolean onPrepareOptionsMenu(Menu menu) {
+        // Store instance of the menu item containing progress
+        miActionProgressItem = menu.findItem(R.id.miActionProgress);
+        //populate timeline while preparing menu
+        populateTimeline();
+        // Return to finish
+        return super.onPrepareOptionsMenu(menu);
+    }
+
+    public void showProgressBar() {
+        // Show progress item
+        miActionProgressItem.setVisible(true);
+    }
+
+    public void hideProgressBar() {
+        // Hide progress item
+        miActionProgressItem.setVisible(false);
+    }
 
     //populate timeline on Twitter Feed
     private void populateTimeline(){
+        showProgressBar();
         client.getHomeTimeline(new JsonHttpResponseHandler(){
             @Override
             public void onSuccess(int statusCode, Header[] headers, JSONArray response) {
@@ -151,10 +184,8 @@ public class TimelineActivity extends AppCompatActivity {
                     } catch (JSONException e){
                         e.printStackTrace();
                     }
-
                 }
-
-
+            hideProgressBar();
             }
 
             @Override
@@ -166,6 +197,7 @@ public class TimelineActivity extends AppCompatActivity {
             public void onFailure(int statusCode, Header[] headers, String responseString, Throwable throwable) {
                 Log.d("TwitterClient", responseString);
                 throwable.printStackTrace();
+                hideProgressBar();
             }
 
             @Override

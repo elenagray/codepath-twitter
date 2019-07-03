@@ -670,6 +670,7 @@ drawable ic_compose
 drawable ic_launcher
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_launcher_twitter_round
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -719,6 +720,7 @@ id barrier
 id beginning
 id blocking
 id bottom
+id btnReply
 id btnSend
 id buttonPanel
 id cancel_action
@@ -772,6 +774,7 @@ id listMode
 id list_item
 id media_actions
 id message
+id miActionProgress
 id miCompose
 id middle
 id multiply
@@ -784,6 +787,7 @@ id notification_main_column_container
 id packed
 id parent
 id parentPanel
+id pbProgressAction
 id percent
 id progress_circular
 id progress_horizontal
@@ -881,6 +885,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout action_view_progress
 layout activity_compose
 layout activity_login
 layout activity_timeline
@@ -1118,6 +1123,7 @@ style Base_Widget_AppCompat_Spinner_Underlined
 style Base_Widget_AppCompat_TextView_SpinnerItem
 style Base_Widget_AppCompat_Toolbar
 style Base_Widget_AppCompat_Toolbar_Button_Navigation
+style MyActionBarLogo
 style Platform_AppCompat
 style Platform_AppCompat_Light
 style Platform_ThemeOverlay_AppCompat

@@ -1,4 +1,7 @@
-#Tue Jul 02 17:45:35 PDT 2019
-base.0=/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/dex/debug/mergeDexDebug/out
+#Wed Jul 03 16:56:04 PDT 2019
+base.0=/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+path.1=classes.dex
+renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
+base.1=/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/dex/debug/mergeProjectDexDebug/out

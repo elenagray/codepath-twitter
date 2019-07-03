@@ -7,14 +7,15 @@
 
     <ImageView
         android:id="@+id/ivProfileImage"
-        android:layout_width="101dp"
-        android:layout_height="101dp"
+        android:layout_width="97dp"
+        android:layout_height="98dp"
         android:layout_margin="5dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/tvBody"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.038"
         app:srcCompat="?attr/colorPrimaryDark" />
 
     <TextView
@@ -22,9 +23,10 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
+        android:layout_marginEnd="8dp"
         android:text="TextView"
         app:layout_constraintBottom_toTopOf="@+id/tvBody"
-        app:layout_constraintEnd_toStartOf="@+id/tvDate"
+        app:layout_constraintEnd_toStartOf="@+id/btnReply"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/ivProfileImage"
         app:layout_constraintTop_toTopOf="parent" />
@@ -47,13 +49,27 @@
     <TextView
         android:id="@+id/tvDate"
         android:layout_width="wrap_content"
-        android:layout_height="18dp"
-        android:layout_marginStart="24dp"
-        android:layout_marginEnd="8dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="12dp"
         android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/btnReply"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/tvUserName"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnReply"
+        android:layout_width="66dp"
+        android:layout_height="38dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:text="reply"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
         app:layout_constraintBottom_toTopOf="@+id/tvBody"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/tvUserName"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/tvDate" />
 </android.support.constraint.ConstraintLayout>

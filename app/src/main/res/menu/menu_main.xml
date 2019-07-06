@@ -6,6 +6,7 @@
     <item
         android:id="@+id/miCompose"
         android:icon="@android:drawable/ic_menu_edit"
+        app:srcCompat="@drawable/ic_vector_compose_dm"
         app:showAsAction="ifRoom"
         android:title="@string/compose">
     </item>

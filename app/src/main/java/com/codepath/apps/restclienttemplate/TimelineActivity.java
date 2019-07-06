@@ -12,6 +12,7 @@ import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.Toast;
 
 import com.codepath.apps.restclienttemplate.models.Tweet;
@@ -36,7 +37,9 @@ public class TimelineActivity extends AppCompatActivity {
     RecyclerView rvTweets;
     private SwipeRefreshLayout swipeContainer;
     MenuItem miActionProgressItem;
-    public boolean ReplyYes;
+    private EndlessRecyclerViewScrollListener scrollListener;
+    long maxId = 0;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -66,8 +69,11 @@ public class TimelineActivity extends AppCompatActivity {
         tweets = new ArrayList<>();
         //construct adapter from data source
         tweetAdapter = new TweetAdapter(tweets); // pass array list to adapter
+//      tweetAdapter.setTweetClickListener(this); TODO: make tweets clickable
+        //same layoutmanager as endless scroll
+        LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this);
         //recyclerView setup (layout manager, use adapter
-        rvTweets.setLayoutManager(new LinearLayoutManager(this));
+        rvTweets.setLayoutManager(linearLayoutManager);
         // set adapter
         rvTweets.setAdapter(tweetAdapter);
 
@@ -76,13 +82,36 @@ public class TimelineActivity extends AppCompatActivity {
         getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#1da1f2")));
         getSupportActionBar().setLogo(getDrawable(R.drawable.ic_launcher_twitter_round));
         getSupportActionBar().setDisplayUseLogoEnabled(true);
+
+        //implementing endless scroll
+        scrollListener = new EndlessRecyclerViewScrollListener(linearLayoutManager) {
+            @Override
+            public void onLoadMore(int page, int totalItemsCount, RecyclerView view) {
+                // Triggered only when new data needs to be appended to the list
+                // Add whatever code is needed to append new items to the bottom of the list
+                loadNextDataFromApi(page);
+            }
+        };
+        // Adds the scroll listener to RecyclerView
+        rvTweets.addOnScrollListener(scrollListener);
     }
 
-    public void fetchTimelineAsync(int page) {
+    public void loadNextDataFromApi(int offset) {
+        maxId = tweets.get(tweets.size()-1).uid; // get last tweet
+        populateTimeline(maxId);
+        // Send an API request to retrieve appropriate paginated data
+        //  --> Send the request including an offset value (i.e `page`) as a query parameter.
+        //  --> Deserialize and construct new model objects from the API response
+        //  --> Append the new data objects to the existing set of items inside the array of items
+        //  --> Notify the adapter of the new items made with `notifyItemRangeInserted()`
+
+    }
+
+        public void fetchTimelineAsync(int page) {
         // Send the network request to fetch the updated data
         // `client` here is an instance of Android Async HTTP
         // getHomeTimeline is an example endpoint.
-        client.getHomeTimeline(new JsonHttpResponseHandler() {
+        client.getHomeTimeline(maxId, new JsonHttpResponseHandler() {
             public void onSuccess(JSONArray json) {
                 // Remember to CLEAR OUT old items before appending in the new ones
                 tweetAdapter.clear();
@@ -112,6 +141,8 @@ public class TimelineActivity extends AppCompatActivity {
             case R.id.miCompose:
                 composeMessage();
                 return true;
+            case R.id.fab:
+                composeMessage();
             default:
                 return super.onOptionsItemSelected(item);
         }
@@ -135,13 +166,17 @@ public class TimelineActivity extends AppCompatActivity {
         startActivityForResult(composeTweet, COMPOSE_TWEET_REQUEST_CODE);
     }
 
-    private void replyMessage() { //TODO: maybe delete/change
-        //open ComposeActivity to reply with new tweet
+    private void fabCompose(View v) {
+        //open ComposeActivity to create new tweet
         Intent composeTweet = new Intent(this, ComposeActivity.class);
         startActivityForResult(composeTweet, COMPOSE_TWEET_REQUEST_CODE);
-        ReplyYes = true;
-        composeTweet.putExtra("replyYes", ReplyYes);
+    }
 
+
+    private void replyMessage() { //TODO: maybe delete/change
+        //open ComposeActivity to reply with new tweet
+        Intent replyTweet = new Intent(this, DetailActivity.class);
+        startActivityForResult(replyTweet, COMPOSE_TWEET_REQUEST_CODE);
     }
 
     @Override
@@ -149,7 +184,7 @@ public class TimelineActivity extends AppCompatActivity {
         // Store instance of the menu item containing progress
         miActionProgressItem = menu.findItem(R.id.miActionProgress);
         //populate timeline while preparing menu
-        populateTimeline();
+        populateTimeline(maxId);
         // Return to finish
         return super.onPrepareOptionsMenu(menu);
     }
@@ -165,9 +200,9 @@ public class TimelineActivity extends AppCompatActivity {
     }
 
     //populate timeline on Twitter Feed
-    private void populateTimeline(){
+    private void populateTimeline(long maxId){
         showProgressBar();
-        client.getHomeTimeline(new JsonHttpResponseHandler(){
+        client.getHomeTimeline(maxId, new JsonHttpResponseHandler(){
             @Override
             public void onSuccess(int statusCode, Header[] headers, JSONArray response) {
 //                Log.d("TwitterClient", response.toString()); //logs data to twitter client

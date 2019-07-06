@@ -52,8 +52,23 @@ public class Tweet$$Parcelable
             parcel$$1 .writeInt(identityMap$$0 .put(tweet$$1));
             parcel$$1 .writeLong(tweet$$1 .uid);
             parcel$$1 .writeString(tweet$$1 .createdAt);
+            if (tweet$$1 .rtCount == null) {
+                parcel$$1 .writeInt(-1);
+            } else {
+                parcel$$1 .writeInt(1);
+                parcel$$1 .writeInt(tweet$$1 .rtCount);
+            }
+            parcel$$1 .writeInt((tweet$$1 .hasEntities? 1 : 0));
+            parcel$$1 .writeString(tweet$$1 .tweetAuthor);
             parcel$$1 .writeString(tweet$$1 .body);
             com.codepath.apps.restclienttemplate.models.User$$Parcelable.write(tweet$$1 .user, parcel$$1, flags$$0, identityMap$$0);
+            com.codepath.apps.restclienttemplate.models.Entity$$Parcelable.write(tweet$$1 .entity, parcel$$1, flags$$0, identityMap$$0);
+            if (tweet$$1 .favoriteCount == null) {
+                parcel$$1 .writeInt(-1);
+            } else {
+                parcel$$1 .writeInt(1);
+                parcel$$1 .writeInt(tweet$$1 .favoriteCount);
+            }
         }
     }
 
@@ -81,9 +96,29 @@ public class Tweet$$Parcelable
             identityMap$$1 .put(reservation$$0, tweet$$4);
             tweet$$4 .uid = parcel$$3 .readLong();
             tweet$$4 .createdAt = parcel$$3 .readString();
+            int int$$0 = parcel$$3 .readInt();
+            java.lang.Integer integer$$0;
+            if (int$$0 < 0) {
+                integer$$0 = null;
+            } else {
+                integer$$0 = parcel$$3 .readInt();
+            }
+            tweet$$4 .rtCount = integer$$0;
+            tweet$$4 .hasEntities = (parcel$$3 .readInt() == 1);
+            tweet$$4 .tweetAuthor = parcel$$3 .readString();
             tweet$$4 .body = parcel$$3 .readString();
             User user$$0 = com.codepath.apps.restclienttemplate.models.User$$Parcelable.read(parcel$$3, identityMap$$1);
             tweet$$4 .user = user$$0;
+            Entity entity$$0 = com.codepath.apps.restclienttemplate.models.Entity$$Parcelable.read(parcel$$3, identityMap$$1);
+            tweet$$4 .entity = entity$$0;
+            int int$$1 = parcel$$3 .readInt();
+            java.lang.Integer integer$$1;
+            if (int$$1 < 0) {
+                integer$$1 = null;
+            } else {
+                integer$$1 = parcel$$3 .readInt();
+            }
+            tweet$$4 .favoriteCount = integer$$1;
             com.codepath.apps.restclienttemplate.models.Tweet tweet$$3 = tweet$$4;
             identityMap$$1 .put(identity$$1, tweet$$3);
             return tweet$$3;

@@ -1,23 +1,27 @@
 [
     {
-        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_abc_tint_default.xml.flat",
-        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/color/abc_tint_default.xml"
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_design_bottom_navigation_item.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/layout/design_bottom_navigation_item.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_abc_tint_default.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/color/abc_tint_default.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_light.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/color/abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
-        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
-    },
-    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_dark.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
@@ -36,8 +40,16 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_design_navigation_item_subheader.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_design_navigation_menu.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/layout/design_navigation_menu.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_dark.xml.flat",
@@ -46,6 +58,14 @@
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_abc_btn_check_material.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_design_ic_visibility.png.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable-hdpi-v4/design_ic_visibility.png"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -96,20 +116,28 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/animator_mtrl_btn_state_list_anim.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/animator/mtrl_btn_state_list_anim.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_internal_bg.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_mtrl_tabs_icon_color_selector.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/color/mtrl_tabs_icon_color_selector.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/menu_menu_main.xml.flat",
-        "source": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/res/menu/menu_main.xml"
-    },
-    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/menu_menu_main.xml.flat",
+        "source": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/res/menu/menu_main.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -128,12 +156,24 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_mtrl_snackbar_background.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable/mtrl_snackbar_background.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/layout/abc_select_dialog_material.xml"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_mtrl_bottom_nav_colored_item_tint.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/color/mtrl_bottom_nav_colored_item_tint.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_abc_tab_indicator_material.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/animator_mtrl_btn_unelevated_state_list_anim.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/animator/mtrl_btn_unelevated_state_list_anim.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -204,6 +244,10 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-v21_design_password_eye.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable-v21/design_password_eye.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
@@ -224,12 +268,16 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
-        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/layout/abc_list_menu_item_layout.xml"
-    },
-    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_abc_btn_default_mtrl_shape.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_mtrl_fab_ripple_color.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/color/mtrl_fab_ripple_color.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/layout/abc_list_menu_item_layout.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
@@ -248,6 +296,10 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_in.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_activity_compose.xml.flat",
         "source": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/res/layout/activity_compose.xml"
     },
@@ -260,12 +312,24 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-v21_avd_hide_password.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_mtrl_chip_ripple_color.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/color/mtrl_chip_ripple_color.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/63838859d47c8b8c8f78345a330c821b/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable-xxxhdpi-v4/design_ic_visibility_off.png"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -308,6 +372,10 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_ic_mtrl_chip_checked_circle.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable/ic_mtrl_chip_checked_circle.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -326,6 +394,10 @@
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_design_menu_item_action_area.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/layout/design_menu_item_action_area.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
@@ -372,6 +444,10 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_mtrl_chip_close_icon_tint.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/color/mtrl_chip_close_icon_tint.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
     },
@@ -404,6 +480,10 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/63838859d47c8b8c8f78345a330c821b/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-v21_design_bottom_navigation_item_background.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
     },
@@ -412,12 +492,20 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_design_ic_visibility.png.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable-xhdpi-v4/design_ic_visibility.png"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/63838859d47c8b8c8f78345a330c821b/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/animator_design_fab_hide_motion_spec.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/animator/design_fab_hide_motion_spec.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_thumb_material.xml.flat",
@@ -436,6 +524,10 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable-xhdpi-v4/design_ic_visibility_off.png"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
@@ -448,8 +540,20 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_mtrl_bottom_nav_item_tint.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/color/mtrl_bottom_nav_item_tint.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
         "source": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_mtrl_text_btn_text_color_selector.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/color/mtrl_text_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_design_fab_background.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable/design_fab_background.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -464,6 +568,14 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/layout/abc_dialog_title_material.xml"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/interpolator-v21_mtrl_fast_out_slow_in.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_out.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/63838859d47c8b8c8f78345a330c821b/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
     },
@@ -472,12 +584,16 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
-        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_mtrl_tabs_ripple_color.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/color/mtrl_tabs_ripple_color.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color-v23_abc_tint_edittext.xml.flat",
@@ -512,12 +628,20 @@
         "source": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/res/layout/activity_login.xml"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_design_layout_tab_text.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/layout/design_layout_tab_text.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_material.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_design_tint_password_toggle.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/color/design_tint_password_toggle.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -540,6 +664,10 @@
         "source": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/res/mipmap-anydpi-v26/ic_compose_round.xml"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout-sw600dp-v13_mtrl_layout_snackbar.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
@@ -550,6 +678,10 @@
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_mtrl_btn_ripple_color.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/color/mtrl_btn_ripple_color.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -564,6 +696,10 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_design_layout_tab_icon.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/layout/design_layout_tab_icon.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
@@ -574,6 +710,10 @@
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/anim_abc_popup_exit.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/animator_mtrl_fab_transformation_sheet_collapse_spec.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/animator/mtrl_fab_transformation_sheet_collapse_spec.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -596,12 +736,12 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/layout/abc_tooltip.xml"
     },
     {
-        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
-        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/color-v23/abc_color_highlight_material.xml"
-    },
-    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/color-v23/abc_color_highlight_material.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -626,6 +766,10 @@
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/29ea746d48471f67ad4df6a520f03d54/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable-mdpi-v4/design_ic_visibility_off.png"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -656,6 +800,10 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_design_error.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/color/design_error.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
@@ -672,6 +820,18 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_ic_mtrl_chip_checked_black.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable/ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_design_ic_visibility.png.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable-mdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_mtrl_btn_stroke_color_selector.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/color/mtrl_btn_stroke_color_selector.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
@@ -682,6 +842,10 @@
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_dark.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_design_ic_visibility.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_dark.xml.flat",
@@ -724,8 +888,20 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_navigation_empty_icon.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_design_navigation_menu_item.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/layout/design_navigation_menu_item.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -774,6 +950,10 @@
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_mtrl_tabs_default_indicator.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable/mtrl_tabs_default_indicator.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -828,6 +1008,10 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout-sw600dp-v13_design_layout_snackbar.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -842,6 +1026,10 @@
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_compose.png.flat",
         "source": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/res/mipmap-xxxhdpi/ic_compose.png"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_mtrl_chip_background_color.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/color/mtrl_chip_background_color.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -920,16 +1108,28 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_compose.png.flat",
-        "source": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/res/mipmap-xxhdpi/ic_compose.png"
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_mtrl_btn_text_btn_ripple_color.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/color/mtrl_btn_text_btn_ripple_color.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/interpolator-v21_mtrl_fast_out_linear_in.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_compose.png.flat",
+        "source": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/res/mipmap-xxhdpi/ic_compose.png"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable-xxhdpi-v4/design_ic_visibility_off.png"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -942,6 +1142,10 @@
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_abc_tint_seek_thumb.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_mtrl_tabs_colored_ripple_color.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/color/mtrl_tabs_colored_ripple_color.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_abc_textfield_search_material.xml.flat",
@@ -984,6 +1188,10 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_design_navigation_item_separator.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/layout/design_navigation_item_separator.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_compose_round.png.flat",
         "source": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/res/mipmap-hdpi/ic_compose_round.png"
     },
@@ -994,6 +1202,10 @@
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_mtrl_layout_snackbar.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/layout/mtrl_layout_snackbar.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -1096,6 +1308,10 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/color/abc_tint_switch_track.xml"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_mtrl_layout_snackbar_include.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/layout/mtrl_layout_snackbar_include.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_light.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable/abc_list_selector_holo_light.xml"
     },
@@ -1136,6 +1352,10 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-v21_avd_show_password.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable-v21/avd_show_password.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -1154,6 +1374,10 @@
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/63838859d47c8b8c8f78345a330c821b/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/interpolator_mtrl_linear.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/interpolator/mtrl_linear.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -1228,12 +1452,24 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/animator_mtrl_fab_show_motion_spec.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/animator/mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_design_navigation_item_header.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/layout/design_navigation_item_header.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-v21_abc_edit_text_material.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_track_material.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/anim_design_snackbar_out.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/anim/design_snackbar_out.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -1246,6 +1482,10 @@
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_ic_vector_compose.png.flat",
+        "source": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/res/drawable/ic_vector_compose.png"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_abc_vector_test.xml.flat",
@@ -1264,12 +1504,24 @@
         "source": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/res/drawable-xhdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_mtrl_tabs_icon_color_selector_colored.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/color/mtrl_tabs_icon_color_selector_colored.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_activity_detail.xml.flat",
+        "source": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/res/layout/activity_detail.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/layout/abc_activity_chooser_view.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_ic_vector_heart_stroke.png.flat",
+        "source": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/res/drawable/ic_vector_heart_stroke.png"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -1296,12 +1548,20 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_design_bottom_sheet_dialog.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_mtrl_btn_text_color_selector.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/color/mtrl_btn_text_color_selector.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_light.xml.flat",
@@ -1316,6 +1576,14 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/color/switch_thumb_material_light.xml"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar_include.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/animator_mtrl_fab_hide_motion_spec.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/animator/mtrl_fab_hide_motion_spec.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
     },
@@ -1326,6 +1594,10 @@
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable-xxxhdpi-v4/design_ic_visibility.png"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-v23_abc_control_background_material.xml.flat",
@@ -1348,12 +1620,24 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_design_ic_visibility.png.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable-xxhdpi-v4/design_ic_visibility.png"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/interpolator-v21_mtrl_linear_out_slow_in.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color-v23_design_tint_password_toggle.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/color-v23/design_tint_password_toggle.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -1412,12 +1696,12 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
-        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
-    },
-    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -1444,8 +1728,16 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/anim_design_snackbar_in.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/anim/design_snackbar_in.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/animator_mtrl_chip_state_list_anim.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/animator/mtrl_chip_state_list_anim.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_abc_tint_btn_checkable.xml.flat",
@@ -1480,6 +1772,10 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/layout/abc_action_bar_title_item.xml"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_design_snackbar_background.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable/design_snackbar_background.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
@@ -1500,8 +1796,24 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_ic_vector_compose_dm.png.flat",
+        "source": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/res/drawable/ic_vector_compose_dm.png"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/animator-v21_design_appbar_state_list_animator.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/animator-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_mtrl_tabs_legacy_text_color_selector.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/color/mtrl_tabs_legacy_text_color_selector.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_mtrl_btn_bg_color_selector.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/color/mtrl_btn_bg_color_selector.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -1534,6 +1846,18 @@
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_design_text_input_password_icon.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_ic_vector_retweet_stroke.png.flat",
+        "source": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/res/drawable/ic_vector_retweet_stroke.png"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/animator_design_fab_show_motion_spec.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/animator/design_fab_show_motion_spec.xml"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -1584,6 +1908,18 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable/abc_item_background_holo_light.xml"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/color_mtrl_chip_text_color.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/color/mtrl_chip_text_color.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_ic_mtrl_chip_close_circle.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable/ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/animator_mtrl_fab_transformation_sheet_expand_spec.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/animator/mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
@@ -1604,8 +1940,16 @@
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/layout_design_navigation_item.xml.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/layout/design_navigation_item.xml"
+    },
+    {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable_vector_compose_shortcut.png.flat",
+        "source": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/src/main/res/drawable/vector_compose_shortcut.png"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -1614,6 +1958,10 @@
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/anim_abc_shrink_fade_out_from_bottom.xml.flat",
         "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/da325b726d53830f4c129825e69570c5/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "/Users/egray/.gradle/caches/transforms-2/files-2.1/e442186951acc50253692f5c16a8b5fa/res/drawable-hdpi-v4/design_ic_visibility_off.png"
     },
     {
         "merged": "/Users/egray/Desktop/AndroidStudioProjects/Twitter/codepath-twitter/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_compose_round.png.flat",

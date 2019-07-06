@@ -51,7 +51,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Imgur](https://i.imgur.com/77WRGqv.gifv)
+[Imgur](https://i.imgur.com/77WRGqv.gifv)
 
 ## Notes
 
@@ -64,7 +64,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Elena Gray]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
